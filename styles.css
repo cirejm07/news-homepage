@@ -44,7 +44,7 @@
     content: '';
     position: absolute;
     left: 0;
-    top: 4px;
+    top: 3px;
     width: 100%;
     height: 1px;
     border-bottom: 2px solid hsl(var(--very-dark-blue));
